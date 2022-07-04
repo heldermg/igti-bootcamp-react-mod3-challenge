@@ -1,22 +1,21 @@
 import { Box, Button } from "@material-ui/core"
 import { AxiosError } from "axios"
 import { useContext } from "react"
-import { logout } from "../services/apiService"
-import { authContext } from "./AuthContext"
+import { apiLogout } from "../services/apiService"
+import { authContext } from "./context/AuthContext"
 
 function UserInfo() {
   const { user, onSignOut } = useContext(authContext)
 
-
   function handleSignOut() {
     async function signOut() {
       try {
-        await logout()
+        await apiLogout()
         onSignOut()
 
       } catch (err: unknown) {
         const typedError = err as AxiosError
-        throw new Error(typedError.message)
+        throw new Error(typedError.response?.data.message)
       }
     }
     signOut()

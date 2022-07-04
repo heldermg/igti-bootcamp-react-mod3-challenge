@@ -1,12 +1,12 @@
 import { Table, TableBody, TableCell, TableHead, TableRow } from "@material-ui/core"
 import { currencyNumberFormat, groupBy } from "../util/util"
-import { IExpense } from "./IExpense"
+import { IExpense } from "./domain/IExpense"
 
 interface IExpenseSummaryProps {
   children: IExpense[]
 }
 
-function ExpenseSummary({ children: expenses }: IExpenseSummaryProps) {
+function ExpensesSummary({ children: expenses }: IExpenseSummaryProps) {
 
   const expensesByCategory = groupBy(expenses, "category")
   const categoriesKeys = Object.keys(expensesByCategory)
@@ -26,8 +26,8 @@ function ExpenseSummary({ children: expenses }: IExpenseSummaryProps) {
     <Table>
       <TableHead>
         <TableRow>
-          <TableCell>Category</TableCell>
-          <TableCell>Value</TableCell>
+          <TableCell width="80%">Category</TableCell>
+          <TableCell width="20%">Value</TableCell>
         </TableRow>
       </TableHead>
       <TableBody>
@@ -44,4 +44,4 @@ function ExpenseSummary({ children: expenses }: IExpenseSummaryProps) {
   )
 }
 
-export { ExpenseSummary }
+export { ExpensesSummary }

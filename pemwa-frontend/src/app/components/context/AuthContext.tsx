@@ -1,5 +1,5 @@
 import React from "react";
-import { IUser } from "./IUser";
+import { IUser } from "../domain/IUser";
 
 export interface IAuthContext {
   user: IUser

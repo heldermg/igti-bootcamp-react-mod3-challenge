@@ -3,12 +3,14 @@ import { useNavigate, useParams } from "react-router-dom"
 import { Box } from "@material-ui/core"
 import { MaterialUiPickersDate } from "@material-ui/pickers/typings/date"
 import { apiGetAllExpenses } from "../services/apiService"
-import { IExpense, Expenses, Main, YearMonthForm, UserInfo, TabPanel } from "../components"
+import { 
+  IExpense, ExpensesDetail, Main, YearMonthForm, 
+  UserInfo, TabPanel, ExpensesSummary 
+} from "../components"
 import { AxiosError } from "axios"
 import { currencyNumberFormat, getTodayYearMonthISO } from "../util/util"
 import Tabs from '@material-ui/core/Tabs';
 import Tab from '@material-ui/core/Tab';
-import { ExpenseSummary } from "../components/ExpenseSummary"
 
 export default function MainPage() {
   const params = useParams<{ yearMonth: string }>()
@@ -20,7 +22,7 @@ export default function MainPage() {
   const navigate = useNavigate()
 
   useEffect(() => {
-    async function getAllExpenses() {
+    async function getExpensesByYearMonth() {
       try {
         const allExpenses = await apiGetAllExpenses(yearMonth)
         setExpenses(allExpenses)
@@ -30,7 +32,7 @@ export default function MainPage() {
         throw Error(typedError.message)
       }
     }
-    getAllExpenses()
+    getExpensesByYearMonth()
   }, [yearMonth])
 
   function handleSelectedYearChange(newValue: MaterialUiPickersDate) {
@@ -83,7 +85,7 @@ export default function MainPage() {
           
           <Tabs
             value={tabIndex}
-            onChange={(evt, newValue) => setTabIndex(newValue)}
+            onChange={(_evt, newValue) => setTabIndex(newValue)}
             indicatorColor="secondary"
             textColor="primary"
             centered
@@ -93,11 +95,11 @@ export default function MainPage() {
           </Tabs>
 
           <TabPanel value={tabIndex} index={0}>
-            <ExpenseSummary>{expenses}</ExpenseSummary>
+            <ExpensesSummary>{expenses}</ExpensesSummary>
           </TabPanel>
 
           <TabPanel value={tabIndex} index={1}>
-            <Expenses>{expenses}</Expenses>
+            <ExpensesDetail>{expenses}</ExpensesDetail>
           </TabPanel>
 
         </Box>

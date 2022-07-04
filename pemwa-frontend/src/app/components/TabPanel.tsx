@@ -2,9 +2,8 @@ import { Box, Typography } from "@material-ui/core"
 
 interface TabPanelProps {
   children?: React.ReactNode
-  dir?: string
-  index: any
   value: any
+  index: any
 }
 
 function TabPanel(props: TabPanelProps) {

@@ -1,11 +1,11 @@
 import { Table, TableBody, TableCell, TableHead, TableRow } from "@material-ui/core"
-import { IExpense, Expense } from "../components"
+import { IExpense, Expense } from "."
 
 interface IExpensesProps {
   children: IExpense[]
 }
 
-function Expenses({ children: expenses }: IExpensesProps) {
+function ExpensesDetail({ children: expenses }: IExpensesProps) {
   return (
     <Table>
       <TableHead>
@@ -30,4 +30,4 @@ function Expenses({ children: expenses }: IExpensesProps) {
   )
 }
 
-export { Expenses }
+export { ExpensesDetail }

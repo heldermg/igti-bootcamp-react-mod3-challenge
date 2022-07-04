@@ -3,7 +3,7 @@ import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom"
 import { IUser, authContext } from "./components"
 import { LoginPage } from "./pages/LoginPage"
 import MainPage from "./pages/MainPage"
-import { getUserAth } from "./services/apiService"
+import { apiGetUserAth } from "./services/apiService"
 import { getTodayYearMonthISO } from "./util/util"
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
   useEffect(() => {
     async function getUser() {
       try {
-        const userAth = await getUserAth()
+        const userAth = await apiGetUserAth()
         setUser(userAth)
       } catch (err) {
         setUser(null)

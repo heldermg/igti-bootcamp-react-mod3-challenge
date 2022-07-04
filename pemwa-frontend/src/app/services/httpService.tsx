@@ -8,15 +8,12 @@ const axiosInstance = axios.create({
   withCredentials: true,
 })
 
-export async function getAllData(url: string) {
+export async function get(url: string) {
   const { data } = await axiosInstance.get(url)
   return data
 }
 
 export async function post(url: string, body: any, headers: any) {
-  const response = await axiosInstance.post(url, body, { headers } )
-  console.log('response');
-  console.log(response);
-  
-  return response.data
+  const { data } = await axiosInstance.post(url, body, { headers } )
+  return data
 }

@@ -2,7 +2,7 @@ import { Box, Button, Container, makeStyles, TextField } from "@material-ui/core
 import { AxiosError } from "axios"
 import { useState } from "react"
 import { IUser } from "../components"
-import { login } from "../services/apiService"
+import { apiLogin } from "../services/apiService"
 
 const useStyles = makeStyles({
   error: {
@@ -24,29 +24,27 @@ function LoginPage({ onSignIn }: ILoginPageProps) {
   const [password, setPassword] = useState("1234")
   const [error, setError] = useState("")
 
-  function signIn(e: React.FormEvent) {
+  function handleSignIn(e: React.FormEvent) {
     e.preventDefault()
-    async function signInBackend() {
+    async function signIn() {
       try {
-        const user = await login(email, password)
+        const user = await apiLogin(email, password)
         setError("")
         onSignIn(user)
 
       } catch (err: unknown) {
         const typedError = err as AxiosError
-        setError(typedError.message)
+        throw new Error(typedError.response?.data.message)
       }
     }
-    signInBackend()
+    signIn()
   }
-
-
 
   return (
     <Container maxWidth="sm">
       <h1>Expenses</h1>
       <p>Enter email and password to log into the system. To test, use email <kbd>usuario@email.com</kbd> and password <kbd>1234</kbd></p>
-      <form onSubmit={signIn}>
+      <form onSubmit={handleSignIn}>
         <TextField
           margin="normal"
           label="E-mail"
@@ -64,16 +62,16 @@ function LoginPage({ onSignIn }: ILoginPageProps) {
           onChange={(e) => setPassword(e.target.value)}
           variant="outlined"
         />
-        {error && <div className={classes.error}>{error}</div>}
         <Box textAlign="right" marginTop="16px">
           <Button
             type="submit"
             variant="contained"
             color="primary"
-          >
+            >
             Sign In
           </Button>
         </Box>
+        {error && <div className={classes.error}>{error}</div>}
       </form>
     </Container>
   )
