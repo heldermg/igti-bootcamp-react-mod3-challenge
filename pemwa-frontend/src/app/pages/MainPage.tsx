@@ -60,50 +60,49 @@ export default function MainPage() {
 
   if (!expenses) {
     return <div>Loading data...</div>
-
-  } else {
-    return (
-      <Main>
-        <UserInfo />
-
-        <Box margin="50px">
-          <YearMonthForm
-            selectedYear={selectedYear}
-            handleSelectedYearChange={handleSelectedYearChange}
-            selectedMonth={selectedMonth}
-            handleSelectedMonthChange={handleSelectedMonthChange}
-          />
-          <Box
-            marginRight="50px"
-            display="flex" 
-            alignItems="center"
-            justifyContent="flex-end">
-              <strong style={{ whiteSpace: "pre", fontSize: "20px" }}>
-                Total Expense: {currencyNumberFormat.format(totalExpense)}
-              </strong>
-          </Box>
-          
-          <Tabs
-            value={tabIndex}
-            onChange={(_evt, newValue) => setTabIndex(newValue)}
-            indicatorColor="secondary"
-            textColor="primary"
-            centered
-          >
-            <Tab label="Summary"/>
-            <Tab label="Detail"/>
-          </Tabs>
-
-          <TabPanel value={tabIndex} index={0}>
-            <ExpensesSummary>{expenses}</ExpensesSummary>
-          </TabPanel>
-
-          <TabPanel value={tabIndex} index={1}>
-            <ExpensesDetail>{expenses}</ExpensesDetail>
-          </TabPanel>
-
-        </Box>
-      </Main>
-    )
   }
+
+  return (
+    <Main>
+      <UserInfo />
+
+      <Box margin="50px">
+        <YearMonthForm
+          selectedYear={selectedYear}
+          handleSelectedYearChange={handleSelectedYearChange}
+          selectedMonth={selectedMonth}
+          handleSelectedMonthChange={handleSelectedMonthChange}
+        />
+        <Box
+          marginRight="50px"
+          display="flex" 
+          alignItems="center"
+          justifyContent="flex-end">
+            <strong style={{ whiteSpace: "pre", fontSize: "20px" }}>
+              Total Expense: {currencyNumberFormat.format(totalExpense)}
+            </strong>
+        </Box>
+        
+        <Tabs
+          value={tabIndex}
+          onChange={(_evt, newValue) => setTabIndex(newValue)}
+          indicatorColor="secondary"
+          textColor="primary"
+          centered
+        >
+          <Tab label="Summary"/>
+          <Tab label="Detail"/>
+        </Tabs>
+
+        <TabPanel value={tabIndex} index={0}>
+          <ExpensesSummary>{expenses}</ExpensesSummary>
+        </TabPanel>
+
+        <TabPanel value={tabIndex} index={1}>
+          <ExpensesDetail>{expenses}</ExpensesDetail>
+        </TabPanel>
+
+      </Box>
+    </Main>
+  )
 }
