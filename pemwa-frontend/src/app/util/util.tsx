@@ -12,13 +12,6 @@ function padStartWithZero(element: any, length: number): string {
   return element
 }
 
-function groupBy(xs: any, key: string) {
-  return xs.reduce(function(rv: any, x: any) {
-    (rv[x[key]] = rv[x[key]] || []).push(x)
-    return rv
-  }, {})
-}
-
 function getTodayYearMonthISO(): string {
   const today = new Date()
   return `${today.getFullYear()}-${padStartWithZero((today.getMonth()+1), 2)}`
@@ -32,4 +25,4 @@ const currencyOptions = {
 
 const currencyNumberFormat = Intl.NumberFormat('pt-BR', currencyOptions)
 
-export { groupBy, months, currencyNumberFormat, padStartWithZero, getTodayYearMonthISO }
+export { months, currencyNumberFormat, padStartWithZero, getTodayYearMonthISO }

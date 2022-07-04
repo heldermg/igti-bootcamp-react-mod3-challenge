@@ -1,25 +1,34 @@
 import { Table, TableBody, TableCell, TableHead, TableRow } from "@material-ui/core"
-import { currencyNumberFormat, groupBy } from "../util/util"
+import { currencyNumberFormat } from "../util/util"
 import { IExpense } from "./domain/IExpense"
 
 interface IExpenseSummaryProps {
   children: IExpense[]
 }
 
+interface ICategorySummary {
+  category: string
+  value: number
+}
+
 function ExpensesSummary({ children: expenses }: IExpenseSummaryProps) {
 
-  const expensesByCategory = groupBy(expenses, "category")
-  const categoriesKeys = Object.keys(expensesByCategory)
-  
-  categoriesKeys.forEach((c: any) => {
-    let totalExpense = expensesByCategory[c].reduce((acumulator: any, currentExpense: any) => {
-      return acumulator + currentExpense.value
-    }, 0)
-    expensesByCategory[c] = {...expensesByCategory[c], totalExpense}
+  let categoriesSummary: ICategorySummary[] = []
+  const categories = expenses
+    .map(e => e.category)
+    .filter((value, index, self) => self.indexOf(value) === index)
+
+  categories.forEach(category => {
+    categoriesSummary.push({
+      category,
+      value: expenses
+              .filter(expense => expense.category === category)
+              .reduce((acumulator, currentCategory) => acumulator + currentCategory.value, 0)
+    })
   })
 
-  categoriesKeys.sort((a, b) => {
-    return expensesByCategory[b].totalExpense - expensesByCategory[a].totalExpense
+  categoriesSummary.sort((a, b) => {
+    return b.value - a.value
   })
 
   return (
@@ -31,11 +40,11 @@ function ExpensesSummary({ children: expenses }: IExpenseSummaryProps) {
         </TableRow>
       </TableHead>
       <TableBody>
-        {categoriesKeys.map((c:any, idx: number) => {
+        {categoriesSummary.map(({category, value}: ICategorySummary, idx: number) => {
           return (
             <TableRow key={idx}>
-              <TableCell>{c}</TableCell>
-              <TableCell>{currencyNumberFormat.format(expensesByCategory[c].totalExpense)}</TableCell>
+              <TableCell>{category}</TableCell>
+              <TableCell>{currencyNumberFormat.format(value)}</TableCell>
             </TableRow>
           )
         })}
