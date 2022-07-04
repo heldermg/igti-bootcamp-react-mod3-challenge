@@ -1,0 +1,4004 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "description": "Clube",
+      "category": "Lazer",
+      "value": 76.71,
+      "yearMonth": "2020-11",
+      "day": "26"
+    },
+    {
+      "id": 2,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 33.19,
+      "yearMonth": "2021-06",
+      "day": "14"
+    },
+    {
+      "id": 3,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 100.44,
+      "yearMonth": "2021-04",
+      "day": "03"
+    },
+    {
+      "id": 4,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 201.13,
+      "yearMonth": "2020-11",
+      "day": "05"
+    },
+    {
+      "id": 5,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 15.96,
+      "yearMonth": "2020-07",
+      "day": "05"
+    },
+    {
+      "id": 6,
+      "description": "Consulta médica",
+      "category": "Saúde",
+      "value": 280.3,
+      "yearMonth": "2021-05",
+      "day": "01"
+    },
+    {
+      "id": 7,
+      "description": "Clube",
+      "category": "Lazer",
+      "value": 120.19,
+      "yearMonth": "2021-02",
+      "day": "22"
+    },
+    {
+      "id": 8,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 21.39,
+      "yearMonth": "2021-05",
+      "day": "03"
+    },
+    {
+      "id": 9,
+      "description": "Academia",
+      "category": "Saúde",
+      "value": 52.4,
+      "yearMonth": "2020-06",
+      "day": "13"
+    },
+    {
+      "id": 10,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 24.83,
+      "yearMonth": "2020-09",
+      "day": "27"
+    },
+    {
+      "id": 11,
+      "description": "Compra no shopping",
+      "category": "Lazer",
+      "value": 215.84,
+      "yearMonth": "2021-03",
+      "day": "05"
+    },
+    {
+      "id": 12,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 123.38,
+      "yearMonth": "2021-05",
+      "day": "23"
+    },
+    {
+      "id": 13,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 52.7,
+      "yearMonth": "2021-03",
+      "day": "24"
+    },
+    {
+      "id": 14,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 98.45,
+      "yearMonth": "2020-07",
+      "day": "12"
+    },
+    {
+      "id": 15,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 76.55,
+      "yearMonth": "2020-10",
+      "day": "26"
+    },
+    {
+      "id": 16,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 18.96,
+      "yearMonth": "2020-12",
+      "day": "09"
+    },
+    {
+      "id": 17,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 92.67,
+      "yearMonth": "2020-09",
+      "day": "24"
+    },
+    {
+      "id": 18,
+      "description": "Cinema",
+      "category": "Lazer",
+      "value": 49.38,
+      "yearMonth": "2020-08",
+      "day": "03"
+    },
+    {
+      "id": 19,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 98.11,
+      "yearMonth": "2020-07",
+      "day": "16"
+    },
+    {
+      "id": 20,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 16.97,
+      "yearMonth": "2021-06",
+      "day": "14"
+    },
+    {
+      "id": 21,
+      "description": "Academia",
+      "category": "Saúde",
+      "value": 124.56,
+      "yearMonth": "2021-02",
+      "day": "16"
+    },
+    {
+      "id": 22,
+      "description": "Farmácia",
+      "category": "Saúde",
+      "value": 108.8,
+      "yearMonth": "2020-12",
+      "day": "13"
+    },
+    {
+      "id": 23,
+      "description": "Academia",
+      "category": "Saúde",
+      "value": 72.91,
+      "yearMonth": "2020-11",
+      "day": "29"
+    },
+    {
+      "id": 24,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 22.68,
+      "yearMonth": "2020-07",
+      "day": "14"
+    },
+    {
+      "id": 25,
+      "description": "Consulta médica",
+      "category": "Saúde",
+      "value": 285.56,
+      "yearMonth": "2020-10",
+      "day": "29"
+    },
+    {
+      "id": 26,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 118.07,
+      "yearMonth": "2020-11",
+      "day": "06"
+    },
+    {
+      "id": 27,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 376.18,
+      "yearMonth": "2020-11",
+      "day": "05"
+    },
+    {
+      "id": 28,
+      "description": "Aluguel",
+      "category": "Moradia",
+      "value": 1985.26,
+      "yearMonth": "2020-07",
+      "day": "02"
+    },
+    {
+      "id": 29,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 258.21,
+      "yearMonth": "2020-09",
+      "day": "21"
+    },
+    {
+      "id": 30,
+      "description": "Churrasco",
+      "category": "Lazer",
+      "value": 31.21,
+      "yearMonth": "2020-09",
+      "day": "13"
+    },
+    {
+      "id": 31,
+      "description": "Seguro",
+      "category": "Transporte",
+      "value": 701.52,
+      "yearMonth": "2020-07",
+      "day": "21"
+    },
+    {
+      "id": 32,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 3.49,
+      "yearMonth": "2021-02",
+      "day": "25"
+    },
+    {
+      "id": 33,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 401.54,
+      "yearMonth": "2021-01",
+      "day": "28"
+    },
+    {
+      "id": 34,
+      "description": "Churrasco",
+      "category": "Lazer",
+      "value": 54.4,
+      "yearMonth": "2021-03",
+      "day": "05"
+    },
+    {
+      "id": 35,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 167.29,
+      "yearMonth": "2021-03",
+      "day": "13"
+    },
+    {
+      "id": 36,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 49.18,
+      "yearMonth": "2021-06",
+      "day": "28"
+    },
+    {
+      "id": 37,
+      "description": "Seguro",
+      "category": "Transporte",
+      "value": 614.34,
+      "yearMonth": "2020-06",
+      "day": "03"
+    },
+    {
+      "id": 38,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 31.07,
+      "yearMonth": "2020-09",
+      "day": "29"
+    },
+    {
+      "id": 39,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 38.15,
+      "yearMonth": "2021-01",
+      "day": "23"
+    },
+    {
+      "id": 40,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 54.28,
+      "yearMonth": "2020-08",
+      "day": "09"
+    },
+    {
+      "id": 41,
+      "description": "Conta de luz",
+      "category": "Moradia",
+      "value": 256.68,
+      "yearMonth": "2021-02",
+      "day": "10"
+    },
+    {
+      "id": 42,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 88.83,
+      "yearMonth": "2020-08",
+      "day": "08"
+    },
+    {
+      "id": 43,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 59.32,
+      "yearMonth": "2021-05",
+      "day": "29"
+    },
+    {
+      "id": 44,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 21.47,
+      "yearMonth": "2020-09",
+      "day": "13"
+    },
+    {
+      "id": 45,
+      "description": "Farmácia",
+      "category": "Saúde",
+      "value": 134.8,
+      "yearMonth": "2020-12",
+      "day": "18"
+    },
+    {
+      "id": 46,
+      "description": "Academia",
+      "category": "Saúde",
+      "value": 76.76,
+      "yearMonth": "2020-11",
+      "day": "01"
+    },
+    {
+      "id": 47,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 25.24,
+      "yearMonth": "2021-02",
+      "day": "21"
+    },
+    {
+      "id": 48,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 68.93,
+      "yearMonth": "2021-03",
+      "day": "15"
+    },
+    {
+      "id": 49,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 1.88,
+      "yearMonth": "2021-04",
+      "day": "10"
+    },
+    {
+      "id": 50,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 73.02,
+      "yearMonth": "2020-11",
+      "day": "22"
+    },
+    {
+      "id": 51,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 118.54,
+      "yearMonth": "2020-09",
+      "day": "12"
+    },
+    {
+      "id": 52,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 26.86,
+      "yearMonth": "2021-02",
+      "day": "18"
+    },
+    {
+      "id": 53,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 70.96,
+      "yearMonth": "2020-07",
+      "day": "24"
+    },
+    {
+      "id": 54,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 88.97,
+      "yearMonth": "2021-05",
+      "day": "18"
+    },
+    {
+      "id": 55,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 63.21,
+      "yearMonth": "2021-01",
+      "day": "05"
+    },
+    {
+      "id": 56,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 69.76,
+      "yearMonth": "2020-08",
+      "day": "16"
+    },
+    {
+      "id": 57,
+      "description": "Clube",
+      "category": "Lazer",
+      "value": 90.73,
+      "yearMonth": "2021-04",
+      "day": "15"
+    },
+    {
+      "id": 58,
+      "description": "Farmácia",
+      "category": "Saúde",
+      "value": 81.83,
+      "yearMonth": "2021-05",
+      "day": "20"
+    },
+    {
+      "id": 59,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 21.33,
+      "yearMonth": "2020-12",
+      "day": "26"
+    },
+    {
+      "id": 60,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 24.75,
+      "yearMonth": "2020-10",
+      "day": "03"
+    },
+    {
+      "id": 61,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 421.56,
+      "yearMonth": "2020-12",
+      "day": "23"
+    },
+    {
+      "id": 62,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 32.42,
+      "yearMonth": "2021-05",
+      "day": "27"
+    },
+    {
+      "id": 63,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 78.19,
+      "yearMonth": "2020-11",
+      "day": "26"
+    },
+    {
+      "id": 64,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 248.52,
+      "yearMonth": "2020-10",
+      "day": "23"
+    },
+    {
+      "id": 65,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 50.24,
+      "yearMonth": "2020-12",
+      "day": "10"
+    },
+    {
+      "id": 66,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 152.45,
+      "yearMonth": "2021-05",
+      "day": "14"
+    },
+    {
+      "id": 67,
+      "description": "Farmácia",
+      "category": "Saúde",
+      "value": 155.89,
+      "yearMonth": "2020-12",
+      "day": "08"
+    },
+    {
+      "id": 68,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 89.17,
+      "yearMonth": "2021-04",
+      "day": "11"
+    },
+    {
+      "id": 69,
+      "description": "Conta de luz",
+      "category": "Moradia",
+      "value": 160.09,
+      "yearMonth": "2020-11",
+      "day": "13"
+    },
+    {
+      "id": 70,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 29.59,
+      "yearMonth": "2020-06",
+      "day": "14"
+    },
+    {
+      "id": 71,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 80.47,
+      "yearMonth": "2020-12",
+      "day": "25"
+    },
+    {
+      "id": 72,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 55.8,
+      "yearMonth": "2020-09",
+      "day": "14"
+    },
+    {
+      "id": 73,
+      "description": "Academia",
+      "category": "Saúde",
+      "value": 109.61,
+      "yearMonth": "2021-01",
+      "day": "29"
+    },
+    {
+      "id": 74,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 85.69,
+      "yearMonth": "2020-09",
+      "day": "24"
+    },
+    {
+      "id": 75,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 131.85,
+      "yearMonth": "2021-06",
+      "day": "26"
+    },
+    {
+      "id": 76,
+      "description": "Consulta médica",
+      "category": "Saúde",
+      "value": 233.46,
+      "yearMonth": "2021-03",
+      "day": "06"
+    },
+    {
+      "id": 77,
+      "description": "Seguro",
+      "category": "Transporte",
+      "value": 232.11,
+      "yearMonth": "2020-06",
+      "day": "13"
+    },
+    {
+      "id": 78,
+      "description": "Conta de luz",
+      "category": "Moradia",
+      "value": 328.01,
+      "yearMonth": "2020-10",
+      "day": "07"
+    },
+    {
+      "id": 79,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 85.68,
+      "yearMonth": "2021-04",
+      "day": "24"
+    },
+    {
+      "id": 80,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 31.09,
+      "yearMonth": "2020-07",
+      "day": "11"
+    },
+    {
+      "id": 81,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 34.37,
+      "yearMonth": "2021-06",
+      "day": "26"
+    },
+    {
+      "id": 82,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 54.76,
+      "yearMonth": "2020-11",
+      "day": "30"
+    },
+    {
+      "id": 83,
+      "description": "Conta de água",
+      "category": "Moradia",
+      "value": 48.28,
+      "yearMonth": "2020-08",
+      "day": "26"
+    },
+    {
+      "id": 84,
+      "description": "Conta de luz",
+      "category": "Moradia",
+      "value": 217.51,
+      "yearMonth": "2021-05",
+      "day": "14"
+    },
+    {
+      "id": 85,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 10.67,
+      "yearMonth": "2020-09",
+      "day": "04"
+    },
+    {
+      "id": 86,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 24.22,
+      "yearMonth": "2021-06",
+      "day": "02"
+    },
+    {
+      "id": 87,
+      "description": "Farmácia",
+      "category": "Saúde",
+      "value": 245.5,
+      "yearMonth": "2020-06",
+      "day": "03"
+    },
+    {
+      "id": 88,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 186.03,
+      "yearMonth": "2021-04",
+      "day": "03"
+    },
+    {
+      "id": 89,
+      "description": "Seguro",
+      "category": "Transporte",
+      "value": 585.45,
+      "yearMonth": "2020-08",
+      "day": "17"
+    },
+    {
+      "id": 90,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 167.82,
+      "yearMonth": "2021-04",
+      "day": "29"
+    },
+    {
+      "id": 91,
+      "description": "Seguro",
+      "category": "Transporte",
+      "value": 634.63,
+      "yearMonth": "2021-06",
+      "day": "19"
+    },
+    {
+      "id": 92,
+      "description": "Cinema",
+      "category": "Lazer",
+      "value": 19.08,
+      "yearMonth": "2021-03",
+      "day": "06"
+    },
+    {
+      "id": 93,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 116.76,
+      "yearMonth": "2021-04",
+      "day": "07"
+    },
+    {
+      "id": 94,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 21.17,
+      "yearMonth": "2020-07",
+      "day": "18"
+    },
+    {
+      "id": 95,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 185.54,
+      "yearMonth": "2020-09",
+      "day": "12"
+    },
+    {
+      "id": 96,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 106.72,
+      "yearMonth": "2021-01",
+      "day": "03"
+    },
+    {
+      "id": 97,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 26.33,
+      "yearMonth": "2021-04",
+      "day": "05"
+    },
+    {
+      "id": 98,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 69.65,
+      "yearMonth": "2021-05",
+      "day": "21"
+    },
+    {
+      "id": 99,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 36.59,
+      "yearMonth": "2020-07",
+      "day": "13"
+    },
+    {
+      "id": 100,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 76.5,
+      "yearMonth": "2021-03",
+      "day": "25"
+    },
+    {
+      "id": 101,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 80.24,
+      "yearMonth": "2020-12",
+      "day": "10"
+    },
+    {
+      "id": 102,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 66.6,
+      "yearMonth": "2020-06",
+      "day": "29"
+    },
+    {
+      "id": 103,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 66.49,
+      "yearMonth": "2020-11",
+      "day": "29"
+    },
+    {
+      "id": 104,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 31.89,
+      "yearMonth": "2021-04",
+      "day": "13"
+    },
+    {
+      "id": 105,
+      "description": "Clube",
+      "category": "Lazer",
+      "value": 53.31,
+      "yearMonth": "2021-03",
+      "day": "18"
+    },
+    {
+      "id": 106,
+      "description": "Compra no shopping",
+      "category": "Lazer",
+      "value": 216.76,
+      "yearMonth": "2021-05",
+      "day": "21"
+    },
+    {
+      "id": 107,
+      "description": "Consulta médica",
+      "category": "Saúde",
+      "value": 236.98,
+      "yearMonth": "2021-01",
+      "day": "07"
+    },
+    {
+      "id": 108,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 17.57,
+      "yearMonth": "2020-06",
+      "day": "11"
+    },
+    {
+      "id": 109,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 148.77,
+      "yearMonth": "2021-06",
+      "day": "26"
+    },
+    {
+      "id": 110,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 411.01,
+      "yearMonth": "2021-03",
+      "day": "28"
+    },
+    {
+      "id": 111,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 181.8,
+      "yearMonth": "2020-11",
+      "day": "27"
+    },
+    {
+      "id": 112,
+      "description": "Consulta médica",
+      "category": "Saúde",
+      "value": 235.89,
+      "yearMonth": "2021-05",
+      "day": "03"
+    },
+    {
+      "id": 113,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 9.95,
+      "yearMonth": "2021-06",
+      "day": "07"
+    },
+    {
+      "id": 114,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 27.51,
+      "yearMonth": "2021-01",
+      "day": "18"
+    },
+    {
+      "id": 115,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 53.69,
+      "yearMonth": "2021-04",
+      "day": "02"
+    },
+    {
+      "id": 116,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 95.55,
+      "yearMonth": "2020-11",
+      "day": "07"
+    },
+    {
+      "id": 117,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 96.47,
+      "yearMonth": "2021-02",
+      "day": "01"
+    },
+    {
+      "id": 118,
+      "description": "Academia",
+      "category": "Saúde",
+      "value": 149.26,
+      "yearMonth": "2020-12",
+      "day": "03"
+    },
+    {
+      "id": 119,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 68.35,
+      "yearMonth": "2021-03",
+      "day": "28"
+    },
+    {
+      "id": 120,
+      "description": "Cinema",
+      "category": "Lazer",
+      "value": 69.91,
+      "yearMonth": "2021-06",
+      "day": "10"
+    },
+    {
+      "id": 121,
+      "description": "Presente para mãe",
+      "category": "Outros",
+      "value": 111.75,
+      "yearMonth": "2021-06",
+      "day": "07"
+    },
+    {
+      "id": 122,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 92.64,
+      "yearMonth": "2020-11",
+      "day": "16"
+    },
+    {
+      "id": 123,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 35.44,
+      "yearMonth": "2021-05",
+      "day": "23"
+    },
+    {
+      "id": 124,
+      "description": "Aluguel",
+      "category": "Moradia",
+      "value": 1925.7,
+      "yearMonth": "2021-05",
+      "day": "18"
+    },
+    {
+      "id": 125,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 86.59,
+      "yearMonth": "2020-11",
+      "day": "28"
+    },
+    {
+      "id": 126,
+      "description": "Conta de luz",
+      "category": "Moradia",
+      "value": 147.72,
+      "yearMonth": "2020-10",
+      "day": "24"
+    },
+    {
+      "id": 127,
+      "description": "Cinema",
+      "category": "Lazer",
+      "value": 44.08,
+      "yearMonth": "2020-08",
+      "day": "25"
+    },
+    {
+      "id": 128,
+      "description": "Consulta médica",
+      "category": "Saúde",
+      "value": 251.12,
+      "yearMonth": "2020-07",
+      "day": "31"
+    },
+    {
+      "id": 129,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 19.11,
+      "yearMonth": "2021-05",
+      "day": "20"
+    },
+    {
+      "id": 130,
+      "description": "Clube",
+      "category": "Lazer",
+      "value": 156.89,
+      "yearMonth": "2021-01",
+      "day": "15"
+    },
+    {
+      "id": 131,
+      "description": "Farmácia",
+      "category": "Saúde",
+      "value": 60.06,
+      "yearMonth": "2020-08",
+      "day": "28"
+    },
+    {
+      "id": 132,
+      "description": "Churrasco",
+      "category": "Lazer",
+      "value": 208.65,
+      "yearMonth": "2020-11",
+      "day": "04"
+    },
+    {
+      "id": 133,
+      "description": "Academia",
+      "category": "Saúde",
+      "value": 114.04,
+      "yearMonth": "2021-01",
+      "day": "17"
+    },
+    {
+      "id": 134,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 98.9,
+      "yearMonth": "2021-05",
+      "day": "24"
+    },
+    {
+      "id": 135,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 31.38,
+      "yearMonth": "2021-02",
+      "day": "01"
+    },
+    {
+      "id": 136,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 128.91,
+      "yearMonth": "2020-08",
+      "day": "30"
+    },
+    {
+      "id": 137,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 50.71,
+      "yearMonth": "2020-08",
+      "day": "24"
+    },
+    {
+      "id": 138,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 1.36,
+      "yearMonth": "2020-07",
+      "day": "15"
+    },
+    {
+      "id": 139,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 24.67,
+      "yearMonth": "2020-06",
+      "day": "17"
+    },
+    {
+      "id": 140,
+      "description": "Farmácia",
+      "category": "Saúde",
+      "value": 48.72,
+      "yearMonth": "2021-05",
+      "day": "26"
+    },
+    {
+      "id": 141,
+      "description": "Reforma",
+      "category": "Moradia",
+      "value": 1143.0,
+      "yearMonth": "2021-03",
+      "day": "17"
+    },
+    {
+      "id": 142,
+      "description": "Consulta médica",
+      "category": "Saúde",
+      "value": 225.72,
+      "yearMonth": "2020-12",
+      "day": "10"
+    },
+    {
+      "id": 143,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 93.43,
+      "yearMonth": "2021-01",
+      "day": "23"
+    },
+    {
+      "id": 144,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 11.01,
+      "yearMonth": "2021-01",
+      "day": "21"
+    },
+    {
+      "id": 145,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 48.3,
+      "yearMonth": "2021-04",
+      "day": "16"
+    },
+    {
+      "id": 146,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 105.43,
+      "yearMonth": "2021-01",
+      "day": "20"
+    },
+    {
+      "id": 147,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 35.44,
+      "yearMonth": "2021-04",
+      "day": "15"
+    },
+    {
+      "id": 148,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 101.24,
+      "yearMonth": "2021-04",
+      "day": "10"
+    },
+    {
+      "id": 149,
+      "description": "Conta de água",
+      "category": "Moradia",
+      "value": 227.36,
+      "yearMonth": "2020-06",
+      "day": "07"
+    },
+    {
+      "id": 150,
+      "description": "Cinema",
+      "category": "Lazer",
+      "value": 36.65,
+      "yearMonth": "2021-02",
+      "day": "12"
+    },
+    {
+      "id": 151,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 112.06,
+      "yearMonth": "2020-09",
+      "day": "25"
+    },
+    {
+      "id": 152,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 23.83,
+      "yearMonth": "2020-08",
+      "day": "13"
+    },
+    {
+      "id": 153,
+      "description": "Conta de luz",
+      "category": "Moradia",
+      "value": 249.33,
+      "yearMonth": "2021-06",
+      "day": "17"
+    },
+    {
+      "id": 154,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 91.5,
+      "yearMonth": "2020-11",
+      "day": "10"
+    },
+    {
+      "id": 155,
+      "description": "Conta de água",
+      "category": "Moradia",
+      "value": 61.46,
+      "yearMonth": "2020-08",
+      "day": "24"
+    },
+    {
+      "id": 156,
+      "description": "Farmácia",
+      "category": "Saúde",
+      "value": 98.31,
+      "yearMonth": "2020-11",
+      "day": "04"
+    },
+    {
+      "id": 157,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 39.65,
+      "yearMonth": "2021-03",
+      "day": "13"
+    },
+    {
+      "id": 158,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 62.76,
+      "yearMonth": "2020-11",
+      "day": "27"
+    },
+    {
+      "id": 159,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 83.33,
+      "yearMonth": "2020-11",
+      "day": "16"
+    },
+    {
+      "id": 160,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 45.46,
+      "yearMonth": "2021-03",
+      "day": "04"
+    },
+    {
+      "id": 161,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 209.04,
+      "yearMonth": "2020-09",
+      "day": "03"
+    },
+    {
+      "id": 162,
+      "description": "Clube",
+      "category": "Lazer",
+      "value": 100.25,
+      "yearMonth": "2020-06",
+      "day": "10"
+    },
+    {
+      "id": 163,
+      "description": "Academia",
+      "category": "Saúde",
+      "value": 88.85,
+      "yearMonth": "2021-05",
+      "day": "21"
+    },
+    {
+      "id": 164,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 363.73,
+      "yearMonth": "2021-06",
+      "day": "13"
+    },
+    {
+      "id": 165,
+      "description": "Cinema",
+      "category": "Lazer",
+      "value": 49.87,
+      "yearMonth": "2020-08",
+      "day": "03"
+    },
+    {
+      "id": 166,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 41.22,
+      "yearMonth": "2021-05",
+      "day": "11"
+    },
+    {
+      "id": 167,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 123.78,
+      "yearMonth": "2020-09",
+      "day": "19"
+    },
+    {
+      "id": 168,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 77.01,
+      "yearMonth": "2021-04",
+      "day": "22"
+    },
+    {
+      "id": 169,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 398.4,
+      "yearMonth": "2021-02",
+      "day": "05"
+    },
+    {
+      "id": 170,
+      "description": "Aluguel",
+      "category": "Moradia",
+      "value": 1698.8,
+      "yearMonth": "2021-05",
+      "day": "23"
+    },
+    {
+      "id": 171,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 69.38,
+      "yearMonth": "2020-09",
+      "day": "27"
+    },
+    {
+      "id": 172,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 10.76,
+      "yearMonth": "2020-07",
+      "day": "28"
+    },
+    {
+      "id": 173,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 83.02,
+      "yearMonth": "2021-02",
+      "day": "09"
+    },
+    {
+      "id": 174,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 22.1,
+      "yearMonth": "2021-04",
+      "day": "24"
+    },
+    {
+      "id": 175,
+      "description": "Consulta médica",
+      "category": "Saúde",
+      "value": 57.89,
+      "yearMonth": "2021-06",
+      "day": "25"
+    },
+    {
+      "id": 176,
+      "description": "Conta de luz",
+      "category": "Moradia",
+      "value": 223.35,
+      "yearMonth": "2020-12",
+      "day": "07"
+    },
+    {
+      "id": 177,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 15.89,
+      "yearMonth": "2020-08",
+      "day": "08"
+    },
+    {
+      "id": 178,
+      "description": "Conta de água",
+      "category": "Moradia",
+      "value": 192.39,
+      "yearMonth": "2020-10",
+      "day": "10"
+    },
+    {
+      "id": 179,
+      "description": "Seguro",
+      "category": "Transporte",
+      "value": 830.89,
+      "yearMonth": "2020-11",
+      "day": "22"
+    },
+    {
+      "id": 180,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 79.04,
+      "yearMonth": "2020-06",
+      "day": "20"
+    },
+    {
+      "id": 181,
+      "description": "Conta de luz",
+      "category": "Moradia",
+      "value": 294.37,
+      "yearMonth": "2020-06",
+      "day": "23"
+    },
+    {
+      "id": 182,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 20.44,
+      "yearMonth": "2020-10",
+      "day": "10"
+    },
+    {
+      "id": 183,
+      "description": "Compra no shopping",
+      "category": "Lazer",
+      "value": 340.88,
+      "yearMonth": "2020-07",
+      "day": "11"
+    },
+    {
+      "id": 184,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 39.85,
+      "yearMonth": "2020-07",
+      "day": "18"
+    },
+    {
+      "id": 185,
+      "description": "Cinema",
+      "category": "Lazer",
+      "value": 84.58,
+      "yearMonth": "2020-12",
+      "day": "17"
+    },
+    {
+      "id": 186,
+      "description": "Revisão do carro",
+      "category": "Transporte",
+      "value": 1017.21,
+      "yearMonth": "2020-11",
+      "day": "13"
+    },
+    {
+      "id": 187,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 24.85,
+      "yearMonth": "2021-02",
+      "day": "24"
+    },
+    {
+      "id": 188,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 26.45,
+      "yearMonth": "2020-06",
+      "day": "21"
+    },
+    {
+      "id": 189,
+      "description": "Farmácia",
+      "category": "Saúde",
+      "value": 116.85,
+      "yearMonth": "2020-08",
+      "day": "13"
+    },
+    {
+      "id": 190,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 13.9,
+      "yearMonth": "2020-09",
+      "day": "11"
+    },
+    {
+      "id": 191,
+      "description": "Conta de água",
+      "category": "Moradia",
+      "value": 223.36,
+      "yearMonth": "2020-06",
+      "day": "26"
+    },
+    {
+      "id": 192,
+      "description": "Compra no shopping",
+      "category": "Lazer",
+      "value": 358.04,
+      "yearMonth": "2020-07",
+      "day": "12"
+    },
+    {
+      "id": 193,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 77.77,
+      "yearMonth": "2020-10",
+      "day": "31"
+    },
+    {
+      "id": 194,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 79.44,
+      "yearMonth": "2020-09",
+      "day": "12"
+    },
+    {
+      "id": 195,
+      "description": "Churrasco",
+      "category": "Lazer",
+      "value": 15.27,
+      "yearMonth": "2020-08",
+      "day": "01"
+    },
+    {
+      "id": 196,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 106.86,
+      "yearMonth": "2020-12",
+      "day": "16"
+    },
+    {
+      "id": 197,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 28.97,
+      "yearMonth": "2020-10",
+      "day": "20"
+    },
+    {
+      "id": 198,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 12.78,
+      "yearMonth": "2021-05",
+      "day": "13"
+    },
+    {
+      "id": 199,
+      "description": "Clube",
+      "category": "Lazer",
+      "value": 53.78,
+      "yearMonth": "2020-09",
+      "day": "17"
+    },
+    {
+      "id": 200,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 73.19,
+      "yearMonth": "2020-07",
+      "day": "11"
+    },
+    {
+      "id": 201,
+      "description": "Academia",
+      "category": "Saúde",
+      "value": 71.23,
+      "yearMonth": "2020-11",
+      "day": "20"
+    },
+    {
+      "id": 202,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 61.33,
+      "yearMonth": "2020-09",
+      "day": "16"
+    },
+    {
+      "id": 203,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 82.8,
+      "yearMonth": "2020-09",
+      "day": "28"
+    },
+    {
+      "id": 204,
+      "description": "Farmácia",
+      "category": "Saúde",
+      "value": 120.57,
+      "yearMonth": "2021-03",
+      "day": "06"
+    },
+    {
+      "id": 205,
+      "description": "Cinema",
+      "category": "Lazer",
+      "value": 48.18,
+      "yearMonth": "2021-04",
+      "day": "23"
+    },
+    {
+      "id": 206,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 102.74,
+      "yearMonth": "2020-11",
+      "day": "20"
+    },
+    {
+      "id": 207,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 96.09,
+      "yearMonth": "2020-11",
+      "day": "12"
+    },
+    {
+      "id": 208,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 69.65,
+      "yearMonth": "2021-04",
+      "day": "18"
+    },
+    {
+      "id": 209,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 88.36,
+      "yearMonth": "2020-12",
+      "day": "02"
+    },
+    {
+      "id": 210,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 18.87,
+      "yearMonth": "2021-05",
+      "day": "15"
+    },
+    {
+      "id": 211,
+      "description": "Clube",
+      "category": "Lazer",
+      "value": 87.87,
+      "yearMonth": "2020-11",
+      "day": "21"
+    },
+    {
+      "id": 212,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 76.83,
+      "yearMonth": "2021-05",
+      "day": "03"
+    },
+    {
+      "id": 213,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 55.01,
+      "yearMonth": "2020-11",
+      "day": "14"
+    },
+    {
+      "id": 214,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 32.64,
+      "yearMonth": "2020-11",
+      "day": "27"
+    },
+    {
+      "id": 215,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 352.99,
+      "yearMonth": "2020-12",
+      "day": "14"
+    },
+    {
+      "id": 216,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 15.17,
+      "yearMonth": "2021-03",
+      "day": "02"
+    },
+    {
+      "id": 217,
+      "description": "Salão de beleza",
+      "category": "Outros",
+      "value": 41.96,
+      "yearMonth": "2020-06",
+      "day": "02"
+    },
+    {
+      "id": 218,
+      "description": "Academia",
+      "category": "Saúde",
+      "value": 63.34,
+      "yearMonth": "2020-12",
+      "day": "29"
+    },
+    {
+      "id": 219,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 85.13,
+      "yearMonth": "2020-07",
+      "day": "28"
+    },
+    {
+      "id": 220,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 128.23,
+      "yearMonth": "2020-12",
+      "day": "03"
+    },
+    {
+      "id": 221,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 100.62,
+      "yearMonth": "2021-02",
+      "day": "23"
+    },
+    {
+      "id": 222,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 21.89,
+      "yearMonth": "2020-10",
+      "day": "04"
+    },
+    {
+      "id": 223,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 117.9,
+      "yearMonth": "2020-09",
+      "day": "21"
+    },
+    {
+      "id": 224,
+      "description": "Aluguel",
+      "category": "Moradia",
+      "value": 2999.44,
+      "yearMonth": "2020-10",
+      "day": "09"
+    },
+    {
+      "id": 225,
+      "description": "Compra no shopping",
+      "category": "Lazer",
+      "value": 308.27,
+      "yearMonth": "2021-01",
+      "day": "29"
+    },
+    {
+      "id": 226,
+      "description": "Clube",
+      "category": "Lazer",
+      "value": 34.15,
+      "yearMonth": "2020-07",
+      "day": "19"
+    },
+    {
+      "id": 227,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 14.97,
+      "yearMonth": "2021-01",
+      "day": "06"
+    },
+    {
+      "id": 228,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 407.16,
+      "yearMonth": "2021-01",
+      "day": "08"
+    },
+    {
+      "id": 229,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 23.65,
+      "yearMonth": "2020-11",
+      "day": "06"
+    },
+    {
+      "id": 230,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 111.94,
+      "yearMonth": "2021-03",
+      "day": "16"
+    },
+    {
+      "id": 231,
+      "description": "Aluguel",
+      "category": "Moradia",
+      "value": 789.18,
+      "yearMonth": "2020-06",
+      "day": "10"
+    },
+    {
+      "id": 232,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 47.69,
+      "yearMonth": "2020-11",
+      "day": "26"
+    },
+    {
+      "id": 233,
+      "description": "Salão de beleza",
+      "category": "Outros",
+      "value": 81.35,
+      "yearMonth": "2021-04",
+      "day": "15"
+    },
+    {
+      "id": 234,
+      "description": "Farmácia",
+      "category": "Saúde",
+      "value": 13.53,
+      "yearMonth": "2020-08",
+      "day": "06"
+    },
+    {
+      "id": 235,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 176.04,
+      "yearMonth": "2020-12",
+      "day": "24"
+    },
+    {
+      "id": 236,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 68.79,
+      "yearMonth": "2020-06",
+      "day": "15"
+    },
+    {
+      "id": 237,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 414.41,
+      "yearMonth": "2020-06",
+      "day": "22"
+    },
+    {
+      "id": 238,
+      "description": "Seguro",
+      "category": "Transporte",
+      "value": 473.23,
+      "yearMonth": "2020-08",
+      "day": "07"
+    },
+    {
+      "id": 239,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 54.3,
+      "yearMonth": "2020-09",
+      "day": "02"
+    },
+    {
+      "id": 240,
+      "description": "Clube",
+      "category": "Lazer",
+      "value": 84.44,
+      "yearMonth": "2020-12",
+      "day": "22"
+    },
+    {
+      "id": 241,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 27.44,
+      "yearMonth": "2020-06",
+      "day": "13"
+    },
+    {
+      "id": 242,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 96.98,
+      "yearMonth": "2020-12",
+      "day": "11"
+    },
+    {
+      "id": 243,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 46.17,
+      "yearMonth": "2021-01",
+      "day": "16"
+    },
+    {
+      "id": 244,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 68.97,
+      "yearMonth": "2020-06",
+      "day": "17"
+    },
+    {
+      "id": 245,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 22.95,
+      "yearMonth": "2021-02",
+      "day": "20"
+    },
+    {
+      "id": 246,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 78.31,
+      "yearMonth": "2020-06",
+      "day": "30"
+    },
+    {
+      "id": 247,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 39.13,
+      "yearMonth": "2020-12",
+      "day": "13"
+    },
+    {
+      "id": 248,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 42.18,
+      "yearMonth": "2021-01",
+      "day": "01"
+    },
+    {
+      "id": 249,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 115.62,
+      "yearMonth": "2020-09",
+      "day": "08"
+    },
+    {
+      "id": 250,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 91.77,
+      "yearMonth": "2020-11",
+      "day": "22"
+    },
+    {
+      "id": 251,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 61.39,
+      "yearMonth": "2021-04",
+      "day": "20"
+    },
+    {
+      "id": 252,
+      "description": "Conta de água",
+      "category": "Moradia",
+      "value": 223.68,
+      "yearMonth": "2021-05",
+      "day": "16"
+    },
+    {
+      "id": 253,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 227.05,
+      "yearMonth": "2020-09",
+      "day": "12"
+    },
+    {
+      "id": 254,
+      "description": "Salão de beleza",
+      "category": "Outros",
+      "value": 53.48,
+      "yearMonth": "2021-02",
+      "day": "19"
+    },
+    {
+      "id": 255,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 58.88,
+      "yearMonth": "2020-07",
+      "day": "18"
+    },
+    {
+      "id": 256,
+      "description": "Compra no shopping",
+      "category": "Lazer",
+      "value": 342.02,
+      "yearMonth": "2020-06",
+      "day": "02"
+    },
+    {
+      "id": 257,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 53.91,
+      "yearMonth": "2021-06",
+      "day": "15"
+    },
+    {
+      "id": 258,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 69.51,
+      "yearMonth": "2021-02",
+      "day": "18"
+    },
+    {
+      "id": 259,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 45.27,
+      "yearMonth": "2020-08",
+      "day": "10"
+    },
+    {
+      "id": 260,
+      "description": "Salão de beleza",
+      "category": "Outros",
+      "value": -1.54,
+      "yearMonth": "2020-12",
+      "day": "20"
+    },
+    {
+      "id": 261,
+      "description": "Academia",
+      "category": "Saúde",
+      "value": 185.14,
+      "yearMonth": "2020-06",
+      "day": "11"
+    },
+    {
+      "id": 262,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 55.6,
+      "yearMonth": "2020-06",
+      "day": "18"
+    },
+    {
+      "id": 263,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 149.0,
+      "yearMonth": "2021-02",
+      "day": "24"
+    },
+    {
+      "id": 264,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 58.99,
+      "yearMonth": "2020-07",
+      "day": "20"
+    },
+    {
+      "id": 265,
+      "description": "Salão de beleza",
+      "category": "Outros",
+      "value": 41.39,
+      "yearMonth": "2021-03",
+      "day": "28"
+    },
+    {
+      "id": 266,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 28.89,
+      "yearMonth": "2021-02",
+      "day": "15"
+    },
+    {
+      "id": 267,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 57.51,
+      "yearMonth": "2021-02",
+      "day": "25"
+    },
+    {
+      "id": 268,
+      "description": "Cinema",
+      "category": "Lazer",
+      "value": 69.38,
+      "yearMonth": "2020-08",
+      "day": "01"
+    },
+    {
+      "id": 269,
+      "description": "Farmácia",
+      "category": "Saúde",
+      "value": 137.82,
+      "yearMonth": "2020-09",
+      "day": "24"
+    },
+    {
+      "id": 270,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 468.98,
+      "yearMonth": "2021-04",
+      "day": "22"
+    },
+    {
+      "id": 271,
+      "description": "Churrasco",
+      "category": "Lazer",
+      "value": 109.08,
+      "yearMonth": "2020-09",
+      "day": "30"
+    },
+    {
+      "id": 272,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 79.73,
+      "yearMonth": "2020-12",
+      "day": "06"
+    },
+    {
+      "id": 273,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 165.25,
+      "yearMonth": "2020-12",
+      "day": "19"
+    },
+    {
+      "id": 274,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 149.6,
+      "yearMonth": "2020-06",
+      "day": "16"
+    },
+    {
+      "id": 275,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 359.93,
+      "yearMonth": "2020-10",
+      "day": "28"
+    },
+    {
+      "id": 276,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 258.58,
+      "yearMonth": "2020-06",
+      "day": "02"
+    },
+    {
+      "id": 277,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 76.85,
+      "yearMonth": "2020-09",
+      "day": "07"
+    },
+    {
+      "id": 278,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 137.74,
+      "yearMonth": "2020-07",
+      "day": "28"
+    },
+    {
+      "id": 279,
+      "description": "Presente para mãe",
+      "category": "Outros",
+      "value": 300.41,
+      "yearMonth": "2021-03",
+      "day": "20"
+    },
+    {
+      "id": 280,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 512.34,
+      "yearMonth": "2021-05",
+      "day": "25"
+    },
+    {
+      "id": 281,
+      "description": "Clube",
+      "category": "Lazer",
+      "value": 52.71,
+      "yearMonth": "2020-06",
+      "day": "21"
+    },
+    {
+      "id": 282,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 57.5,
+      "yearMonth": "2021-05",
+      "day": "11"
+    },
+    {
+      "id": 283,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 291.78,
+      "yearMonth": "2021-02",
+      "day": "20"
+    },
+    {
+      "id": 284,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 41.17,
+      "yearMonth": "2020-10",
+      "day": "14"
+    },
+    {
+      "id": 285,
+      "description": "Aluguel",
+      "category": "Moradia",
+      "value": 2462.09,
+      "yearMonth": "2020-12",
+      "day": "07"
+    },
+    {
+      "id": 286,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 54.55,
+      "yearMonth": "2021-02",
+      "day": "03"
+    },
+    {
+      "id": 287,
+      "description": "Cinema",
+      "category": "Lazer",
+      "value": 53.81,
+      "yearMonth": "2021-06",
+      "day": "08"
+    },
+    {
+      "id": 288,
+      "description": "Conta de água",
+      "category": "Moradia",
+      "value": 252.83,
+      "yearMonth": "2021-05",
+      "day": "16"
+    },
+    {
+      "id": 289,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 120.18,
+      "yearMonth": "2020-12",
+      "day": "19"
+    },
+    {
+      "id": 290,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 131.36,
+      "yearMonth": "2020-07",
+      "day": "26"
+    },
+    {
+      "id": 291,
+      "description": "Churrasco",
+      "category": "Lazer",
+      "value": 105.21,
+      "yearMonth": "2020-08",
+      "day": "05"
+    },
+    {
+      "id": 292,
+      "description": "Conta de água",
+      "category": "Moradia",
+      "value": 156.5,
+      "yearMonth": "2020-11",
+      "day": "30"
+    },
+    {
+      "id": 293,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 32.35,
+      "yearMonth": "2021-02",
+      "day": "16"
+    },
+    {
+      "id": 294,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 13.18,
+      "yearMonth": "2021-01",
+      "day": "14"
+    },
+    {
+      "id": 295,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 70.24,
+      "yearMonth": "2021-01",
+      "day": "16"
+    },
+    {
+      "id": 296,
+      "description": "Salão de beleza",
+      "category": "Outros",
+      "value": 63.1,
+      "yearMonth": "2021-02",
+      "day": "02"
+    },
+    {
+      "id": 297,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 26.25,
+      "yearMonth": "2021-05",
+      "day": "18"
+    },
+    {
+      "id": 298,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 70.05,
+      "yearMonth": "2021-02",
+      "day": "09"
+    },
+    {
+      "id": 299,
+      "description": "Farmácia",
+      "category": "Saúde",
+      "value": 123.71,
+      "yearMonth": "2020-08",
+      "day": "31"
+    },
+    {
+      "id": 300,
+      "description": "Conta de água",
+      "category": "Moradia",
+      "value": 132.54,
+      "yearMonth": "2021-03",
+      "day": "19"
+    },
+    {
+      "id": 301,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 22.1,
+      "yearMonth": "2021-03",
+      "day": "26"
+    },
+    {
+      "id": 302,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 256.52,
+      "yearMonth": "2021-05",
+      "day": "01"
+    },
+    {
+      "id": 303,
+      "description": "Aluguel",
+      "category": "Moradia",
+      "value": 2325.96,
+      "yearMonth": "2021-03",
+      "day": "25"
+    },
+    {
+      "id": 304,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 119.24,
+      "yearMonth": "2020-10",
+      "day": "12"
+    },
+    {
+      "id": 305,
+      "description": "Conta de luz",
+      "category": "Moradia",
+      "value": 191.03,
+      "yearMonth": "2020-12",
+      "day": "01"
+    },
+    {
+      "id": 306,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 34.0,
+      "yearMonth": "2020-09",
+      "day": "16"
+    },
+    {
+      "id": 307,
+      "description": "Salão de beleza",
+      "category": "Outros",
+      "value": 59.88,
+      "yearMonth": "2021-03",
+      "day": "04"
+    },
+    {
+      "id": 308,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 323.23,
+      "yearMonth": "2020-08",
+      "day": "21"
+    },
+    {
+      "id": 309,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 78.02,
+      "yearMonth": "2020-12",
+      "day": "29"
+    },
+    {
+      "id": 310,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 74.3,
+      "yearMonth": "2020-08",
+      "day": "27"
+    },
+    {
+      "id": 311,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 122.93,
+      "yearMonth": "2020-11",
+      "day": "04"
+    },
+    {
+      "id": 312,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 170.51,
+      "yearMonth": "2021-05",
+      "day": "15"
+    },
+    {
+      "id": 313,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 368.2,
+      "yearMonth": "2020-10",
+      "day": "25"
+    },
+    {
+      "id": 314,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": -15.53,
+      "yearMonth": "2021-03",
+      "day": "07"
+    },
+    {
+      "id": 315,
+      "description": "Compra no shopping",
+      "category": "Lazer",
+      "value": 181.31,
+      "yearMonth": "2021-03",
+      "day": "22"
+    },
+    {
+      "id": 316,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 82.81,
+      "yearMonth": "2020-11",
+      "day": "12"
+    },
+    {
+      "id": 317,
+      "description": "Cinema",
+      "category": "Lazer",
+      "value": 90.39,
+      "yearMonth": "2020-11",
+      "day": "11"
+    },
+    {
+      "id": 318,
+      "description": "Academia",
+      "category": "Saúde",
+      "value": 7.53,
+      "yearMonth": "2021-06",
+      "day": "10"
+    },
+    {
+      "id": 319,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 13.27,
+      "yearMonth": "2020-06",
+      "day": "01"
+    },
+    {
+      "id": 320,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 93.86,
+      "yearMonth": "2020-08",
+      "day": "11"
+    },
+    {
+      "id": 321,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 118.6,
+      "yearMonth": "2021-05",
+      "day": "13"
+    },
+    {
+      "id": 322,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 117.07,
+      "yearMonth": "2021-05",
+      "day": "18"
+    },
+    {
+      "id": 323,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 231.09,
+      "yearMonth": "2020-10",
+      "day": "13"
+    },
+    {
+      "id": 324,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 26.24,
+      "yearMonth": "2021-02",
+      "day": "19"
+    },
+    {
+      "id": 325,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 37.52,
+      "yearMonth": "2021-02",
+      "day": "03"
+    },
+    {
+      "id": 326,
+      "description": "Salão de beleza",
+      "category": "Outros",
+      "value": 43.6,
+      "yearMonth": "2021-03",
+      "day": "12"
+    },
+    {
+      "id": 327,
+      "description": "Compra no shopping",
+      "category": "Lazer",
+      "value": 99.28,
+      "yearMonth": "2021-01",
+      "day": "20"
+    },
+    {
+      "id": 328,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 18.66,
+      "yearMonth": "2020-12",
+      "day": "16"
+    },
+    {
+      "id": 329,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 87.81,
+      "yearMonth": "2021-06",
+      "day": "24"
+    },
+    {
+      "id": 330,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 93.64,
+      "yearMonth": "2021-01",
+      "day": "19"
+    },
+    {
+      "id": 331,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 65.72,
+      "yearMonth": "2021-05",
+      "day": "27"
+    },
+    {
+      "id": 332,
+      "description": "Conta de luz",
+      "category": "Moradia",
+      "value": 170.23,
+      "yearMonth": "2021-03",
+      "day": "12"
+    },
+    {
+      "id": 333,
+      "description": "Conta de água",
+      "category": "Moradia",
+      "value": 174.32,
+      "yearMonth": "2020-12",
+      "day": "10"
+    },
+    {
+      "id": 334,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 5.21,
+      "yearMonth": "2020-08",
+      "day": "28"
+    },
+    {
+      "id": 335,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 37.77,
+      "yearMonth": "2021-01",
+      "day": "11"
+    },
+    {
+      "id": 336,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 463.16,
+      "yearMonth": "2021-04",
+      "day": "30"
+    },
+    {
+      "id": 337,
+      "description": "Conta de luz",
+      "category": "Moradia",
+      "value": 25.44,
+      "yearMonth": "2020-07",
+      "day": "15"
+    },
+    {
+      "id": 338,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 37.33,
+      "yearMonth": "2021-03",
+      "day": "01"
+    },
+    {
+      "id": 339,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 106.02,
+      "yearMonth": "2021-03",
+      "day": "15"
+    },
+    {
+      "id": 340,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 142.45,
+      "yearMonth": "2021-01",
+      "day": "15"
+    },
+    {
+      "id": 341,
+      "description": "Cinema",
+      "category": "Lazer",
+      "value": 59.48,
+      "yearMonth": "2020-10",
+      "day": "02"
+    },
+    {
+      "id": 342,
+      "description": "Conta de luz",
+      "category": "Moradia",
+      "value": 253.09,
+      "yearMonth": "2021-04",
+      "day": "28"
+    },
+    {
+      "id": 343,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 196.48,
+      "yearMonth": "2021-01",
+      "day": "29"
+    },
+    {
+      "id": 344,
+      "description": "Conta de água",
+      "category": "Moradia",
+      "value": 59.76,
+      "yearMonth": "2020-06",
+      "day": "02"
+    },
+    {
+      "id": 345,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 267.41,
+      "yearMonth": "2020-12",
+      "day": "20"
+    },
+    {
+      "id": 346,
+      "description": "Farmácia",
+      "category": "Saúde",
+      "value": 159.99,
+      "yearMonth": "2021-01",
+      "day": "10"
+    },
+    {
+      "id": 347,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 28.44,
+      "yearMonth": "2021-03",
+      "day": "18"
+    },
+    {
+      "id": 348,
+      "description": "Academia",
+      "category": "Saúde",
+      "value": 76.56,
+      "yearMonth": "2021-05",
+      "day": "20"
+    },
+    {
+      "id": 349,
+      "description": "Seguro",
+      "category": "Transporte",
+      "value": 716.37,
+      "yearMonth": "2020-12",
+      "day": "14"
+    },
+    {
+      "id": 350,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 25.63,
+      "yearMonth": "2021-04",
+      "day": "07"
+    },
+    {
+      "id": 351,
+      "description": "Churrasco",
+      "category": "Lazer",
+      "value": 119.41,
+      "yearMonth": "2020-11",
+      "day": "22"
+    },
+    {
+      "id": 352,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 84.89,
+      "yearMonth": "2020-10",
+      "day": "26"
+    },
+    {
+      "id": 353,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 25.87,
+      "yearMonth": "2021-06",
+      "day": "04"
+    },
+    {
+      "id": 354,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 54.34,
+      "yearMonth": "2020-08",
+      "day": "21"
+    },
+    {
+      "id": 355,
+      "description": "Churrasco",
+      "category": "Lazer",
+      "value": 23.33,
+      "yearMonth": "2020-09",
+      "day": "25"
+    },
+    {
+      "id": 356,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 22.89,
+      "yearMonth": "2021-05",
+      "day": "18"
+    },
+    {
+      "id": 357,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 84.89,
+      "yearMonth": "2021-03",
+      "day": "01"
+    },
+    {
+      "id": 358,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 27.08,
+      "yearMonth": "2020-06",
+      "day": "04"
+    },
+    {
+      "id": 359,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 38.3,
+      "yearMonth": "2020-06",
+      "day": "04"
+    },
+    {
+      "id": 360,
+      "description": "Conta de luz",
+      "category": "Moradia",
+      "value": 284.27,
+      "yearMonth": "2021-02",
+      "day": "11"
+    },
+    {
+      "id": 361,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 27.69,
+      "yearMonth": "2020-09",
+      "day": "13"
+    },
+    {
+      "id": 362,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 143.69,
+      "yearMonth": "2021-01",
+      "day": "01"
+    },
+    {
+      "id": 363,
+      "description": "Academia",
+      "category": "Saúde",
+      "value": 67.85,
+      "yearMonth": "2021-06",
+      "day": "04"
+    },
+    {
+      "id": 364,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 31.24,
+      "yearMonth": "2021-06",
+      "day": "04"
+    },
+    {
+      "id": 365,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 105.69,
+      "yearMonth": "2021-01",
+      "day": "07"
+    },
+    {
+      "id": 366,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 38.36,
+      "yearMonth": "2020-06",
+      "day": "05"
+    },
+    {
+      "id": 367,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 25.48,
+      "yearMonth": "2020-09",
+      "day": "28"
+    },
+    {
+      "id": 368,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 93.01,
+      "yearMonth": "2021-04",
+      "day": "04"
+    },
+    {
+      "id": 369,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 106.41,
+      "yearMonth": "2021-03",
+      "day": "04"
+    },
+    {
+      "id": 370,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 119.67,
+      "yearMonth": "2021-01",
+      "day": "23"
+    },
+    {
+      "id": 371,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 61.94,
+      "yearMonth": "2020-08",
+      "day": "04"
+    },
+    {
+      "id": 372,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 70.79,
+      "yearMonth": "2021-06",
+      "day": "09"
+    },
+    {
+      "id": 373,
+      "description": "Conta de luz",
+      "category": "Moradia",
+      "value": 268.74,
+      "yearMonth": "2021-02",
+      "day": "04"
+    },
+    {
+      "id": 374,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 143.96,
+      "yearMonth": "2021-02",
+      "day": "09"
+    },
+    {
+      "id": 375,
+      "description": "Compra no shopping",
+      "category": "Lazer",
+      "value": 201.55,
+      "yearMonth": "2021-05",
+      "day": "05"
+    },
+    {
+      "id": 376,
+      "description": "Cinema",
+      "category": "Lazer",
+      "value": 29.31,
+      "yearMonth": "2020-12",
+      "day": "08"
+    },
+    {
+      "id": 377,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 38.59,
+      "yearMonth": "2020-06",
+      "day": "10"
+    },
+    {
+      "id": 378,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 68.05,
+      "yearMonth": "2020-11",
+      "day": "22"
+    },
+    {
+      "id": 379,
+      "description": "Consulta médica",
+      "category": "Saúde",
+      "value": 191.57,
+      "yearMonth": "2021-02",
+      "day": "07"
+    },
+    {
+      "id": 380,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 34.17,
+      "yearMonth": "2021-06",
+      "day": "15"
+    },
+    {
+      "id": 381,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 104.55,
+      "yearMonth": "2020-09",
+      "day": "16"
+    },
+    {
+      "id": 382,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 47.16,
+      "yearMonth": "2020-08",
+      "day": "19"
+    },
+    {
+      "id": 383,
+      "description": "Aluguel",
+      "category": "Moradia",
+      "value": 918.62,
+      "yearMonth": "2021-05",
+      "day": "13"
+    },
+    {
+      "id": 384,
+      "description": "Churrasco",
+      "category": "Lazer",
+      "value": 124.29,
+      "yearMonth": "2021-01",
+      "day": "06"
+    },
+    {
+      "id": 385,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 209.65,
+      "yearMonth": "2020-06",
+      "day": "06"
+    },
+    {
+      "id": 386,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 88.12,
+      "yearMonth": "2020-10",
+      "day": "06"
+    },
+    {
+      "id": 387,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 7.92,
+      "yearMonth": "2021-02",
+      "day": "28"
+    },
+    {
+      "id": 388,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 110.62,
+      "yearMonth": "2020-09",
+      "day": "08"
+    },
+    {
+      "id": 389,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 90.14,
+      "yearMonth": "2021-01",
+      "day": "18"
+    },
+    {
+      "id": 390,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 406.72,
+      "yearMonth": "2020-07",
+      "day": "22"
+    },
+    {
+      "id": 391,
+      "description": "Conta de luz",
+      "category": "Moradia",
+      "value": 306.37,
+      "yearMonth": "2021-03",
+      "day": "16"
+    },
+    {
+      "id": 392,
+      "description": "Viagem para praia",
+      "category": "Lazer",
+      "value": 1242.82,
+      "yearMonth": "2020-10",
+      "day": "28"
+    },
+    {
+      "id": 393,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 55.5,
+      "yearMonth": "2021-04",
+      "day": "10"
+    },
+    {
+      "id": 394,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 93.54,
+      "yearMonth": "2020-11",
+      "day": "26"
+    },
+    {
+      "id": 395,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 58.57,
+      "yearMonth": "2021-06",
+      "day": "22"
+    },
+    {
+      "id": 396,
+      "description": "Consulta médica",
+      "category": "Saúde",
+      "value": 207.91,
+      "yearMonth": "2020-08",
+      "day": "30"
+    },
+    {
+      "id": 397,
+      "description": "Conta de água",
+      "category": "Moradia",
+      "value": 100.11,
+      "yearMonth": "2021-02",
+      "day": "20"
+    },
+    {
+      "id": 398,
+      "description": "Consulta médica",
+      "category": "Saúde",
+      "value": 251.33,
+      "yearMonth": "2021-03",
+      "day": "25"
+    },
+    {
+      "id": 399,
+      "description": "Aluguel",
+      "category": "Moradia",
+      "value": 1840.69,
+      "yearMonth": "2020-07",
+      "day": "29"
+    },
+    {
+      "id": 400,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 115.2,
+      "yearMonth": "2021-06",
+      "day": "23"
+    },
+    {
+      "id": 401,
+      "description": "Cinema",
+      "category": "Lazer",
+      "value": 43.64,
+      "yearMonth": "2021-04",
+      "day": "30"
+    },
+    {
+      "id": 402,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 247.12,
+      "yearMonth": "2021-06",
+      "day": "07"
+    },
+    {
+      "id": 403,
+      "description": "Conta de água",
+      "category": "Moradia",
+      "value": 109.49,
+      "yearMonth": "2020-10",
+      "day": "27"
+    },
+    {
+      "id": 404,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 30.6,
+      "yearMonth": "2020-11",
+      "day": "06"
+    },
+    {
+      "id": 405,
+      "description": "Seguro",
+      "category": "Transporte",
+      "value": 685.72,
+      "yearMonth": "2021-02",
+      "day": "16"
+    },
+    {
+      "id": 406,
+      "description": "Presente para mãe",
+      "category": "Outros",
+      "value": 246.17,
+      "yearMonth": "2020-06",
+      "day": "26"
+    },
+    {
+      "id": 407,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 57.95,
+      "yearMonth": "2021-04",
+      "day": "16"
+    },
+    {
+      "id": 408,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 35.43,
+      "yearMonth": "2021-03",
+      "day": "14"
+    },
+    {
+      "id": 409,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 145.1,
+      "yearMonth": "2021-04",
+      "day": "19"
+    },
+    {
+      "id": 410,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 56.63,
+      "yearMonth": "2020-11",
+      "day": "10"
+    },
+    {
+      "id": 411,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 292.21,
+      "yearMonth": "2020-06",
+      "day": "08"
+    },
+    {
+      "id": 412,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 1.02,
+      "yearMonth": "2021-03",
+      "day": "25"
+    },
+    {
+      "id": 413,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 71.63,
+      "yearMonth": "2020-12",
+      "day": "25"
+    },
+    {
+      "id": 414,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 15.68,
+      "yearMonth": "2021-06",
+      "day": "16"
+    },
+    {
+      "id": 415,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 85.02,
+      "yearMonth": "2021-05",
+      "day": "31"
+    },
+    {
+      "id": 416,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 84.93,
+      "yearMonth": "2020-10",
+      "day": "23"
+    },
+    {
+      "id": 417,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 110.41,
+      "yearMonth": "2020-09",
+      "day": "24"
+    },
+    {
+      "id": 418,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 20.82,
+      "yearMonth": "2020-10",
+      "day": "03"
+    },
+    {
+      "id": 419,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 53.01,
+      "yearMonth": "2021-01",
+      "day": "30"
+    },
+    {
+      "id": 420,
+      "description": "Viagem para praia",
+      "category": "Lazer",
+      "value": 2765.04,
+      "yearMonth": "2020-06",
+      "day": "11"
+    },
+    {
+      "id": 421,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 114.98,
+      "yearMonth": "2020-12",
+      "day": "12"
+    },
+    {
+      "id": 422,
+      "description": "Clube",
+      "category": "Lazer",
+      "value": 53.33,
+      "yearMonth": "2020-10",
+      "day": "17"
+    },
+    {
+      "id": 423,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 67.89,
+      "yearMonth": "2020-06",
+      "day": "12"
+    },
+    {
+      "id": 424,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 105.69,
+      "yearMonth": "2020-06",
+      "day": "27"
+    },
+    {
+      "id": 425,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 102.52,
+      "yearMonth": "2021-05",
+      "day": "03"
+    },
+    {
+      "id": 426,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 70.29,
+      "yearMonth": "2021-06",
+      "day": "13"
+    },
+    {
+      "id": 427,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 53.91,
+      "yearMonth": "2020-11",
+      "day": "06"
+    },
+    {
+      "id": 428,
+      "description": "Academia",
+      "category": "Saúde",
+      "value": 69.4,
+      "yearMonth": "2020-12",
+      "day": "04"
+    },
+    {
+      "id": 429,
+      "description": "Farmácia",
+      "category": "Saúde",
+      "value": 204.52,
+      "yearMonth": "2020-08",
+      "day": "02"
+    },
+    {
+      "id": 430,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 25.34,
+      "yearMonth": "2021-03",
+      "day": "01"
+    },
+    {
+      "id": 431,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 62.39,
+      "yearMonth": "2020-07",
+      "day": "25"
+    },
+    {
+      "id": 432,
+      "description": "Conta de água",
+      "category": "Moradia",
+      "value": 157.88,
+      "yearMonth": "2020-10",
+      "day": "29"
+    },
+    {
+      "id": 433,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 7.87,
+      "yearMonth": "2020-07",
+      "day": "09"
+    },
+    {
+      "id": 434,
+      "description": "Seguro",
+      "category": "Transporte",
+      "value": 337.03,
+      "yearMonth": "2020-09",
+      "day": "15"
+    },
+    {
+      "id": 435,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 61.07,
+      "yearMonth": "2020-06",
+      "day": "12"
+    },
+    {
+      "id": 436,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 142.0,
+      "yearMonth": "2020-07",
+      "day": "25"
+    },
+    {
+      "id": 437,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 94.23,
+      "yearMonth": "2020-09",
+      "day": "01"
+    },
+    {
+      "id": 438,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 94.18,
+      "yearMonth": "2020-11",
+      "day": "13"
+    },
+    {
+      "id": 439,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 90.61,
+      "yearMonth": "2021-05",
+      "day": "22"
+    },
+    {
+      "id": 440,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 45.05,
+      "yearMonth": "2020-11",
+      "day": "21"
+    },
+    {
+      "id": 441,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 326.83,
+      "yearMonth": "2021-04",
+      "day": "06"
+    },
+    {
+      "id": 442,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 92.43,
+      "yearMonth": "2020-11",
+      "day": "11"
+    },
+    {
+      "id": 443,
+      "description": "Salão de beleza",
+      "category": "Outros",
+      "value": 30.62,
+      "yearMonth": "2020-09",
+      "day": "13"
+    },
+    {
+      "id": 444,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 7.89,
+      "yearMonth": "2020-09",
+      "day": "16"
+    },
+    {
+      "id": 445,
+      "description": "Consulta médica",
+      "category": "Saúde",
+      "value": 73.57,
+      "yearMonth": "2020-07",
+      "day": "22"
+    },
+    {
+      "id": 446,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 112.17,
+      "yearMonth": "2020-09",
+      "day": "22"
+    },
+    {
+      "id": 447,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 378.92,
+      "yearMonth": "2021-04",
+      "day": "22"
+    },
+    {
+      "id": 448,
+      "description": "Clube",
+      "category": "Lazer",
+      "value": 125.63,
+      "yearMonth": "2020-07",
+      "day": "13"
+    },
+    {
+      "id": 449,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 49.87,
+      "yearMonth": "2020-09",
+      "day": "06"
+    },
+    {
+      "id": 450,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 37.49,
+      "yearMonth": "2021-03",
+      "day": "14"
+    },
+    {
+      "id": 451,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 72.16,
+      "yearMonth": "2021-05",
+      "day": "22"
+    },
+    {
+      "id": 452,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 234.62,
+      "yearMonth": "2020-11",
+      "day": "13"
+    },
+    {
+      "id": 453,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 91.35,
+      "yearMonth": "2021-03",
+      "day": "24"
+    },
+    {
+      "id": 454,
+      "description": "Farmácia",
+      "category": "Saúde",
+      "value": 94.55,
+      "yearMonth": "2020-11",
+      "day": "24"
+    },
+    {
+      "id": 455,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 67.79,
+      "yearMonth": "2020-06",
+      "day": "23"
+    },
+    {
+      "id": 456,
+      "description": "Aluguel",
+      "category": "Moradia",
+      "value": 1753.06,
+      "yearMonth": "2021-05",
+      "day": "23"
+    },
+    {
+      "id": 457,
+      "description": "Conta de água",
+      "category": "Moradia",
+      "value": 135.11,
+      "yearMonth": "2020-12",
+      "day": "25"
+    },
+    {
+      "id": 458,
+      "description": "Aluguel",
+      "category": "Moradia",
+      "value": 1227.03,
+      "yearMonth": "2020-11",
+      "day": "23"
+    },
+    {
+      "id": 459,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 31.32,
+      "yearMonth": "2020-07",
+      "day": "08"
+    },
+    {
+      "id": 460,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 324.88,
+      "yearMonth": "2021-05",
+      "day": "21"
+    },
+    {
+      "id": 461,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 25.74,
+      "yearMonth": "2021-03",
+      "day": "04"
+    },
+    {
+      "id": 462,
+      "description": "Revisão do carro",
+      "category": "Transporte",
+      "value": 1995.72,
+      "yearMonth": "2020-09",
+      "day": "15"
+    },
+    {
+      "id": 463,
+      "description": "Compra no shopping",
+      "category": "Lazer",
+      "value": 44.2,
+      "yearMonth": "2021-02",
+      "day": "16"
+    },
+    {
+      "id": 464,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 111.24,
+      "yearMonth": "2020-11",
+      "day": "06"
+    },
+    {
+      "id": 465,
+      "description": "Academia",
+      "category": "Saúde",
+      "value": 97.42,
+      "yearMonth": "2021-06",
+      "day": "21"
+    },
+    {
+      "id": 466,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 121.83,
+      "yearMonth": "2020-06",
+      "day": "29"
+    },
+    {
+      "id": 467,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 26.95,
+      "yearMonth": "2020-10",
+      "day": "25"
+    },
+    {
+      "id": 468,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 94.28,
+      "yearMonth": "2020-10",
+      "day": "31"
+    },
+    {
+      "id": 469,
+      "description": "Supermercado",
+      "category": "Alimentação",
+      "value": 393.7,
+      "yearMonth": "2020-06",
+      "day": "22"
+    },
+    {
+      "id": 470,
+      "description": "Conta de água",
+      "category": "Moradia",
+      "value": 161.68,
+      "yearMonth": "2021-02",
+      "day": "19"
+    },
+    {
+      "id": 471,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 150.38,
+      "yearMonth": "2021-05",
+      "day": "17"
+    },
+    {
+      "id": 472,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 106.86,
+      "yearMonth": "2020-06",
+      "day": "18"
+    },
+    {
+      "id": 473,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 33.11,
+      "yearMonth": "2020-12",
+      "day": "21"
+    },
+    {
+      "id": 474,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 7.52,
+      "yearMonth": "2020-07",
+      "day": "02"
+    },
+    {
+      "id": 475,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 82.42,
+      "yearMonth": "2021-06",
+      "day": "19"
+    },
+    {
+      "id": 476,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 95.56,
+      "yearMonth": "2020-11",
+      "day": "29"
+    },
+    {
+      "id": 477,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 140.81,
+      "yearMonth": "2020-06",
+      "day": "12"
+    },
+    {
+      "id": 478,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 29.6,
+      "yearMonth": "2021-05",
+      "day": "12"
+    },
+    {
+      "id": 479,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 93.59,
+      "yearMonth": "2020-06",
+      "day": "09"
+    },
+    {
+      "id": 480,
+      "description": "Academia",
+      "category": "Saúde",
+      "value": 67.91,
+      "yearMonth": "2021-06",
+      "day": "17"
+    },
+    {
+      "id": 481,
+      "description": "Cinema",
+      "category": "Lazer",
+      "value": 92.85,
+      "yearMonth": "2020-06",
+      "day": "05"
+    },
+    {
+      "id": 482,
+      "description": "Churrasco",
+      "category": "Lazer",
+      "value": 126.28,
+      "yearMonth": "2020-12",
+      "day": "23"
+    },
+    {
+      "id": 483,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 34.43,
+      "yearMonth": "2020-12",
+      "day": "23"
+    },
+    {
+      "id": 484,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 71.68,
+      "yearMonth": "2021-03",
+      "day": "19"
+    },
+    {
+      "id": 485,
+      "description": "Academia",
+      "category": "Saúde",
+      "value": 165.69,
+      "yearMonth": "2020-06",
+      "day": "07"
+    },
+    {
+      "id": 486,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 134.85,
+      "yearMonth": "2020-12",
+      "day": "16"
+    },
+    {
+      "id": 487,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 58.64,
+      "yearMonth": "2021-03",
+      "day": "27"
+    },
+    {
+      "id": 488,
+      "description": "Compra no IFood",
+      "category": "Alimentação",
+      "value": 44.93,
+      "yearMonth": "2020-07",
+      "day": "04"
+    },
+    {
+      "id": 489,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 60.84,
+      "yearMonth": "2020-08",
+      "day": "17"
+    },
+    {
+      "id": 490,
+      "description": "Conta do buteco",
+      "category": "Lazer",
+      "value": 86.94,
+      "yearMonth": "2020-12",
+      "day": "10"
+    },
+    {
+      "id": 491,
+      "description": "Aluguel",
+      "category": "Moradia",
+      "value": 1912.9,
+      "yearMonth": "2021-05",
+      "day": "28"
+    },
+    {
+      "id": 492,
+      "description": "Salão de beleza",
+      "category": "Outros",
+      "value": 37.49,
+      "yearMonth": "2020-08",
+      "day": "01"
+    },
+    {
+      "id": 493,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 23.64,
+      "yearMonth": "2020-11",
+      "day": "11"
+    },
+    {
+      "id": 494,
+      "description": "Restaurante",
+      "category": "Alimentação",
+      "value": 66.85,
+      "yearMonth": "2020-08",
+      "day": "11"
+    },
+    {
+      "id": 495,
+      "description": "Consulta médica",
+      "category": "Saúde",
+      "value": 239.51,
+      "yearMonth": "2020-06",
+      "day": "07"
+    },
+    {
+      "id": 496,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 42.03,
+      "yearMonth": "2020-11",
+      "day": "11"
+    },
+    {
+      "id": 497,
+      "description": "Conta de água",
+      "category": "Moradia",
+      "value": 138.62,
+      "yearMonth": "2021-05",
+      "day": "01"
+    },
+    {
+      "id": 498,
+      "description": "Padaria",
+      "category": "Alimentação",
+      "value": 46.39,
+      "yearMonth": "2021-05",
+      "day": "18"
+    },
+    {
+      "id": 499,
+      "description": "Gasolina",
+      "category": "Transporte",
+      "value": 34.12,
+      "yearMonth": "2020-10",
+      "day": "09"
+    },
+    {
+      "id": 500,
+      "description": "Cinema",
+      "category": "Lazer",
+      "value": 43.58,
+      "yearMonth": "2021-01",
+      "day": "02"
+    }
+  ]
+}
