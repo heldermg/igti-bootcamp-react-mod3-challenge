@@ -13,11 +13,11 @@ interface ICategorySummary {
 
 function ExpensesSummary({ children: expenses }: IExpenseSummaryProps) {
 
-  let categoriesSummary: ICategorySummary[] = []
   const categories = expenses
-    .map(e => e.category)
-    .filter((value, index, self) => self.indexOf(value) === index)
-
+  .map(e => e.category)
+  .filter((value, index, self) => self.indexOf(value) === index)
+  
+  let categoriesSummary: ICategorySummary[] = []
   categories.forEach(category => {
     categoriesSummary.push({
       category,
