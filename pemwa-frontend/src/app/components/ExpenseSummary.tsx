@@ -8,27 +8,27 @@ interface IExpenseSummaryProps {
 
 interface ICategorySummary {
   category: string
-  value: number
+  totalValue: number
 }
 
 function ExpensesSummary({ children: expenses }: IExpenseSummaryProps) {
 
   const categories = expenses
-  .map(e => e.category)
-  .filter((value, index, self) => self.indexOf(value) === index)
+    .map(e => e.category)
+    .filter((value, index, self) => self.indexOf(value) === index)
   
   let categoriesSummary: ICategorySummary[] = []
   categories.forEach(category => {
     categoriesSummary.push({
       category,
-      value: expenses
+      totalValue: expenses
               .filter(expense => expense.category === category)
-              .reduce((acumulator, currentCategory) => acumulator + currentCategory.value, 0)
+              .reduce((ac, currentCategory) => ac + currentCategory.value, 0)
     })
   })
 
   categoriesSummary.sort((a, b) => {
-    return b.value - a.value
+    return b.totalValue - a.totalValue
   })
 
   return (
@@ -40,11 +40,11 @@ function ExpensesSummary({ children: expenses }: IExpenseSummaryProps) {
         </TableRow>
       </TableHead>
       <TableBody>
-        {categoriesSummary.map(({category, value}: ICategorySummary, idx: number) => {
+        {categoriesSummary.map(({category, totalValue}: ICategorySummary, idx: number) => {
           return (
             <TableRow key={idx}>
               <TableCell>{category}</TableCell>
-              <TableCell>{currencyNumberFormat.format(value)}</TableCell>
+              <TableCell>{currencyNumberFormat.format(totalValue)}</TableCell>
             </TableRow>
           )
         })}
