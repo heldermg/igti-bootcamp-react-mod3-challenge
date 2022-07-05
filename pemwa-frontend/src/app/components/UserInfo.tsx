@@ -29,7 +29,7 @@ function UserInfo() {
       justifyContent="space-between">
       <Box fontSize="40px">Expenses</Box>
       <Box>
-        <Box component="span" m="10px">Olá {user.name}</Box>
+        <Box component="span" m="10px">Hi {user.name}!</Box>
         <Box component="span">
           <Button color="primary" variant="outlined" onClick={handleSignOut}>Logout</Button>
         </Box>

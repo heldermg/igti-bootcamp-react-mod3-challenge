@@ -20,7 +20,7 @@ interface ILoginPageProps {
 
 function LoginPage({ onSignIn }: ILoginPageProps) {
   const classes = useStyles();
-  const [email, setEmail] = useState("usuario@email.com")
+  const [email, setEmail] = useState("user@email.com")
   const [password, setPassword] = useState("1234")
   const [error, setError] = useState("")
 
@@ -34,7 +34,7 @@ function LoginPage({ onSignIn }: ILoginPageProps) {
 
       } catch (err: unknown) {
         const typedError = err as AxiosError
-        throw new Error(typedError.response?.data.message)
+        setError(typedError.response?.data.message)
       }
     }
     signIn()
@@ -43,7 +43,7 @@ function LoginPage({ onSignIn }: ILoginPageProps) {
   return (
     <Container maxWidth="sm">
       <h1>Expenses</h1>
-      <p>Enter email and password to log into the system. To test, use email <kbd>usuario@email.com</kbd> and password <kbd>1234</kbd></p>
+      <p>Enter email and password to log into the system. To test, use email <kbd>user@email.com</kbd> and password <kbd>1234</kbd></p>
       <form onSubmit={handleSignIn}>
         <TextField
           margin="normal"
