@@ -1,4 +1,4 @@
-# Personal Expense Management - Backend and Frontend
+# Personal Expense Manager (With Auth) - Backend and Frontend
 
 ## Backend
 - Json-server
