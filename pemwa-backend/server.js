@@ -36,7 +36,7 @@ server.post("/session/create", (req, res) => {
     const status = 401;
     res
       .status(status)
-      .json({ status, message: "E-mail não encontrado ou senha incorreta" });
+      .json({ status, message: "E-mail not found or password incorrect" });
   } else {
     req.session.user = { name: user.name, email: user.email };
     res.status(200).json(req.session.user);
@@ -47,25 +47,24 @@ server.get("/session/user", (req, res) => {
   if (req.session.user) {
     res.status(200).json(req.session.user);
   } else {
-    res.status(401).json({ status: 401, message: "Não autenticado" });
+    res.status(401).json({ status: 401, message: "Not authenticated" });
   }
 });
 
 server.post("/session/end", (req, res) => {
   if (req.session.user) {
-    req.session.destroy(function (err) {
-      res.status(200).json({ message: "Você saiu do sistema" });
+    req.session.destroy(function (_err) {
+      res.status(200).json({ message: "Logout successfully" });
     });
   } else {
-    res.status(401).json({ status: 401, message: "Não autenticado" });
+    res.status(401).json({ status: 401, message: "Not authenticated" });
   }
 });
 
 server.use(/^(?!\/session).*$/, (req, res, next) => {
   if (!req.session.user) {
     const status = 401;
-    res.status(status).json({ status, message: "Não autenticado" });
-    return;
+    res.status(status).json({ status, message: "Not authenticated" });
   } else {
     next();
   }
@@ -74,5 +73,5 @@ server.use(/^(?!\/session).*$/, (req, res, next) => {
 server.use(router);
 
 server.listen(3001, () => {
-  console.log(`Servidor inicializado`);
+  console.log(`Server started`);
 });
